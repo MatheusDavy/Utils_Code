@@ -1,8 +1,7 @@
 
 # Popup Submit Forms
 
-Abrir um popup na mesma opagina ao invés de abrir o link em uma nova guia ao enviar um formulário. 
-
+"Open a popup in the same page instead of opening the link in a new tab when submitting a form."
 
 
 #### Code Variables
